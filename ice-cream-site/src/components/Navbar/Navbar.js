@@ -1,10 +1,9 @@
 import React, { Component, useState } from "react";
 import { MenuItems } from "./MenuItems";
-//import { MenuItemsRight } from "./MenuItemsRight";
 import "./Navbar.css";
-import Logo from "../../images/Logo.png";
-import UserIcon from "../../images/UserIcon.svg";
-import BasketIcon from "../../images/BasketIcon.svg";
+import Logo from "../../resources/Group 1327.png";
+import UserIcon from "../../resources/Group 1349.png";
+import BasketIcon from "../../resources/Group 1442.png";
 
 class Navbar extends Component {
   state = { clicked: false };

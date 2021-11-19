@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import "../Navbar/Navbar.css";
-import IcecreamImg from "../../images/IcecreamBanner.png";
-import DonutImg from "../../images/DonutsBanner.png";
-import FamilyCorporateImg from "../../images/FamilyCorporateBanner.png";
+import IcecreamImg from "../../resources/Group 1443.png";
+import DonutImg from "../../resources/Group 1444.png";
+import FamilyCorporateImg from "../../resources/Group 1443.png";
 
 function Cards() {
   return (

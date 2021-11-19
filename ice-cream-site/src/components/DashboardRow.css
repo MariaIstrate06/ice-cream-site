@@ -1,0 +1,25 @@
+.dashboard-row{
+    display: grid; 
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+.headings{
+    display: flex; 
+    justify-content: space-between;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+.p{
+    margin: 0;
+    padding: 0;
+}
+.row-explore{
+    display: grid;
+    font-weight: bolder;
+    grid-template-columns: 90% 10%;
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-24)/var(--unnamed-line-spacing-29) var(--unnamed-font-family-helvetica-neue);
+}
+.arrow{
+    padding-top: 0.8em;
+}
